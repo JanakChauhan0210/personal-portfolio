@@ -2,7 +2,7 @@
 
 Personal portfolio of Janak Chauhan, an MBA (Tech) Data Science student at Mukesh Patel School of Technology Management & Engineering (MPSTME), NMIMS, Mumbai (expected graduation 2029).
 
-Live site: https://janakchauhan0210.github.io/portfolio/
+Live site: https://janakchauhan0210.github.io/personal-portfolio/
 Source: https://github.com/JanakChauhan0210/portfolio
 
 ## Overview
